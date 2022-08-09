@@ -1,9 +1,9 @@
-    پیادهسازی سرویس SMS با در نظر گرفتن موارد زیر:
+  Implementation of SMS service considering the following:
 
 
-         پروژه به صورت api rest نوشته شود.
-         حداقل دو ارسال کننده داشته باشد و قابلیت اضافه شدن سرویس جدید وجود داشته باشد.
-         ارسال کننده در file config قابل تغییر باشد.
-         ارسال به صورت async انجام شود.
-         پیامک های ارسالی ذخیره شوند و قابلیت گزارش گیری داشته باشد.
+      The project should be written as api rest.
+      Have at least two senders and have the ability to add a new service.
+      The sender can be changed in the config file.
+      Sending should be done async.
+      SMS messages sent can be saved and reportable.
  
